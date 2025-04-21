@@ -4,7 +4,6 @@ First date referenced for the follow-up assessment
 Both GLCM and DTCWT methods are evaluated  using 
 the custom 3D-printed phantom and CCR Honeycomb phantom dataset. 
 
-@author: Ozan Gökkan
 """
 
 from scipy import io
