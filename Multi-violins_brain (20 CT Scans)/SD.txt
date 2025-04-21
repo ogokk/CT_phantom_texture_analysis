@@ -1,0 +1,480 @@
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for vertical_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.22783008255810913
+Standard Deviation of Energy values [DTCWT group]: 0.19396149710417115
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.19207686198989515
+Standard Deviation of Contrast values [DTCWT group]: 0.20115888058480294
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.2594338183532119
+Standard Deviation of Correlation values [DTCWT group]: 0.14724512140010135
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.21066773256611046
+Standard Deviation of Variance values [DTCWT group]: 0.19718356492776265
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.19207686198989513
+Standard Deviation of Homogeneity values [DTCWT group]: 0.1804812128309844
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21073740480373826
+Standard Deviation of Sum Average values [DTCWT group]: 0.20322090328661155
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.2109559483044324
+Standard Deviation of Sum Variance values [DTCWT group]: 0.2056429962972643
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.22040032357927947
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.1954131402930074
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.22541207245754188
+Standard Deviation of Entropy values [DTCWT group]: 0.21701848068454235
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.19207686198989515
+Standard Deviation of Difference Variance values [DTCWT group]: 0.20115429633164833
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.22540400172239852
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.19131772449341383
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.24439443311747958
+Standard Deviation of Correlation I values [DTCWT group]: 0.33461553451004855
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.2523029007531062
+Standard Deviation of Correlation II values [DTCWT group]: 0.3504566076612287
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.22929367447269605
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.23334906265437294
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for horizontal_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.23079079523105725
+Standard Deviation of Energy values [DTCWT group]: 0.2049737575425922
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.19566062633121373
+Standard Deviation of Contrast values [DTCWT group]: 0.24604827770832216
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.25794525733782603
+Standard Deviation of Correlation values [DTCWT group]: 0.1774887351097441
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.2120585704846286
+Standard Deviation of Variance values [DTCWT group]: 0.2090595361795504
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.19566062633121378
+Standard Deviation of Homogeneity values [DTCWT group]: 0.20958886229270393
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21214703911701552
+Standard Deviation of Sum Average values [DTCWT group]: 0.2285841112809777
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.2115058015721417
+Standard Deviation of Sum Variance values [DTCWT group]: 0.23158472243242187
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.22227353635197358
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.21544110972355643
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.22786153588038066
+Standard Deviation of Entropy values [DTCWT group]: 0.23594943811551733
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.19566062633121378
+Standard Deviation of Difference Variance values [DTCWT group]: 0.24602583995059255
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.2298320036680745
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.2157926007811099
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.24594788739457202
+Standard Deviation of Correlation I values [DTCWT group]: 0.19635279790689567
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.25394063975351544
+Standard Deviation of Correlation II values [DTCWT group]: 0.2001917312288856
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.2298638603927279
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.19611946134575844
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for star4_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.1868781606764871
+Standard Deviation of Energy values [DTCWT group]: 0.19861643424273634
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.19702641941631277
+Standard Deviation of Contrast values [DTCWT group]: 0.18632234480206353
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.16342096749857588
+Standard Deviation of Correlation values [DTCWT group]: 0.15971022220666517
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.13061702092758912
+Standard Deviation of Variance values [DTCWT group]: 0.19063396195394655
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.19702641941631271
+Standard Deviation of Homogeneity values [DTCWT group]: 0.1931232809622259
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.13269516068198375
+Standard Deviation of Sum Average values [DTCWT group]: 0.1947053628450038
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.1329845500462728
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19872341967591586
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.19187273940346858
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.186905407485944
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.19103230033182161
+Standard Deviation of Entropy values [DTCWT group]: 0.2298695369460351
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.19702641941631283
+Standard Deviation of Difference Variance values [DTCWT group]: 0.18630346171909984
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.22528304835043475
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18594084967477703
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.09990197321984462
+Standard Deviation of Correlation I values [DTCWT group]: 0.17975780968884358
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.14498656801768664
+Standard Deviation of Correlation II values [DTCWT group]: 0.26848969677584994
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.13094502257335752
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.1965295513571582
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for star8_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.1861424200612565
+Standard Deviation of Energy values [DTCWT group]: 0.20814809005157708
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.19520324392064936
+Standard Deviation of Contrast values [DTCWT group]: 0.18377053363823423
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.17991729817014374
+Standard Deviation of Correlation values [DTCWT group]: 0.1536623268564345
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.12654646604769818
+Standard Deviation of Variance values [DTCWT group]: 0.1875251762910581
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.19520324392064928
+Standard Deviation of Homogeneity values [DTCWT group]: 0.1897582892849212
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.128569997457806
+Standard Deviation of Sum Average values [DTCWT group]: 0.18813723777840438
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.12583027883276723
+Standard Deviation of Sum Variance values [DTCWT group]: 0.189876553246581
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.19135436680783252
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.1841502825542759
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.1906700701859571
+Standard Deviation of Entropy values [DTCWT group]: 0.2142901312287621
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.19520324392064936
+Standard Deviation of Difference Variance values [DTCWT group]: 0.183747457603706
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.22332548825235965
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.1798566340157023
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.10875162535071214
+Standard Deviation of Correlation I values [DTCWT group]: 0.22470018782804504
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.15845396364114
+Standard Deviation of Correlation II values [DTCWT group]: 0.30051203331001897
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.1448072846798128
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.221976370596409
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for sinusoidal_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.2687341603871785
+Standard Deviation of Energy values [DTCWT group]: 0.1861405281609966
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.22945624898849892
+Standard Deviation of Contrast values [DTCWT group]: 0.19419212442954334
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.25323508927903415
+Standard Deviation of Correlation values [DTCWT group]: 0.14448662776170962
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.23589097084659755
+Standard Deviation of Variance values [DTCWT group]: 0.18738862018961366
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.2294562489884989
+Standard Deviation of Homogeneity values [DTCWT group]: 0.1695383862302316
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.235999157909144
+Standard Deviation of Sum Average values [DTCWT group]: 0.19484100311013758
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.22671075579615
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19788312893395388
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.25663122561289303
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.18204874989215436
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.26541668409502805
+Standard Deviation of Entropy values [DTCWT group]: 0.20492918658775378
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.22945624898849892
+Standard Deviation of Difference Variance values [DTCWT group]: 0.1941755401747793
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.2753002256906657
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18018091234845252
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.2467079446462622
+Standard Deviation of Correlation I values [DTCWT group]: 0.32351393940049683
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.2614239359542428
+Standard Deviation of Correlation II values [DTCWT group]: 0.3498372817820036
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.23524086773550829
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.2609930935964551
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for square_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.1870168546523675
+Standard Deviation of Energy values [DTCWT group]: 0.19788680148606086
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.19244392882589312
+Standard Deviation of Contrast values [DTCWT group]: 0.18400489351082527
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.24839079477166218
+Standard Deviation of Correlation values [DTCWT group]: 0.15000021152182796
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.12571711455003132
+Standard Deviation of Variance values [DTCWT group]: 0.19037841420870819
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.19244392882589328
+Standard Deviation of Homogeneity values [DTCWT group]: 0.17269758416310557
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.1276803568398306
+Standard Deviation of Sum Average values [DTCWT group]: 0.19499988967543003
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.12246890058130197
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19882361547762395
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.1916634898363408
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.1804028205856614
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.19164374884573865
+Standard Deviation of Entropy values [DTCWT group]: 0.20780856336925135
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.19244392882589315
+Standard Deviation of Difference Variance values [DTCWT group]: 0.1840007713288931
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.22168959461614046
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.1767270012865876
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.1929857358423573
+Standard Deviation of Correlation I values [DTCWT group]: 0.32152648532508593
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.21364461377368754
+Standard Deviation of Correlation II values [DTCWT group]: 0.3486014466243716
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.20880014051934706
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.2139674996352284
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for diagonal_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.22511308385938428
+Standard Deviation of Energy values [DTCWT group]: 0.18145978586429518
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.2253649417120271
+Standard Deviation of Contrast values [DTCWT group]: 0.19226500205601427
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.2091459824167022
+Standard Deviation of Correlation values [DTCWT group]: 0.16285835269174
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.21225107693129186
+Standard Deviation of Variance values [DTCWT group]: 0.18724069453659375
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.22536494171202665
+Standard Deviation of Homogeneity values [DTCWT group]: 0.1719098911338217
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21233234662660766
+Standard Deviation of Sum Average values [DTCWT group]: 0.1939937469143545
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.19507674151671417
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19650413042764195
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.21605862798020756
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.18216264190633952
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.22417922800357562
+Standard Deviation of Entropy values [DTCWT group]: 0.2010140289664654
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.22536494171202712
+Standard Deviation of Difference Variance values [DTCWT group]: 0.19225255321586382
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.26385162231747566
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18700078202931056
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.1963107683860444
+Standard Deviation of Correlation I values [DTCWT group]: 0.3509073443165135
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.19664861646212217
+Standard Deviation of Correlation II values [DTCWT group]: 0.3669176227192866
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.19819837178970498
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.27891992771646124
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for honeysmall_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.2397781206763901
+Standard Deviation of Energy values [DTCWT group]: 0.18223215647058133
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.22637410128435437
+Standard Deviation of Contrast values [DTCWT group]: 0.1923651474738399
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.1873585296997763
+Standard Deviation of Correlation values [DTCWT group]: 0.16372110675265542
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.21872866476450528
+Standard Deviation of Variance values [DTCWT group]: 0.18722944542825798
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.22637410128435453
+Standard Deviation of Homogeneity values [DTCWT group]: 0.16804028784665787
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21880959668038358
+Standard Deviation of Sum Average values [DTCWT group]: 0.1945914778303883
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.21650900549106364
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19722886171036283
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.2294871487456318
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.1820175555646833
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.2378981963161106
+Standard Deviation of Entropy values [DTCWT group]: 0.20280949706186455
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.22637410128435437
+Standard Deviation of Difference Variance values [DTCWT group]: 0.1923518929655997
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.26701569460902896
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18328351574264776
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.1677363263522692
+Standard Deviation of Correlation I values [DTCWT group]: 0.34527987005573013
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.17997962505867957
+Standard Deviation of Correlation II values [DTCWT group]: 0.3741475833579101
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.1733973341264435
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.24628698645095556
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for honeymedium_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.2397781206763901
+Standard Deviation of Energy values [DTCWT group]: 0.1843166358292904
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.22637410128435437
+Standard Deviation of Contrast values [DTCWT group]: 0.1927390284492546
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.1873585296997763
+Standard Deviation of Correlation values [DTCWT group]: 0.1632899479014973
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.21872866476450528
+Standard Deviation of Variance values [DTCWT group]: 0.18739227899301145
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.22637410128435453
+Standard Deviation of Homogeneity values [DTCWT group]: 0.16790849139922645
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21880959668038358
+Standard Deviation of Sum Average values [DTCWT group]: 0.19372882367239314
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.21650900549106364
+Standard Deviation of Sum Variance values [DTCWT group]: 0.19615601743690836
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.2294871487456318
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.1820596669781064
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.2378981963161106
+Standard Deviation of Entropy values [DTCWT group]: 0.20626311437431785
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.22637410128435437
+Standard Deviation of Difference Variance values [DTCWT group]: 0.19272551057954093
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.26701569460902896
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18307599459200613
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.1677363263522692
+Standard Deviation of Correlation I values [DTCWT group]: 0.33867581018753634
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.17997962505867957
+Standard Deviation of Correlation II values [DTCWT group]: 0.3548951297174642
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.1733973341264435
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.27047155709686954
+--------------------------------------------------
+
+----------------------****************************-------------------
+
+Standard Deviations of Each Feature for honeylarge_ 
+
+------------------------****************************-------------------
+Standard Deviation of Energy values [GLCM]: 0.2387801668273899
+Standard Deviation of Energy values [DTCWT group]: 0.1866462221083258
+--------------------------------------------------
+Standard Deviation of Contrast values [GLCM]: 0.22631280081869437
+Standard Deviation of Contrast values [DTCWT group]: 0.19224877439266483
+--------------------------------------------------
+Standard Deviation of Correlation values [GLCM]: 0.1890478705267548
+Standard Deviation of Correlation values [DTCWT group]: 0.16337814211876375
+--------------------------------------------------
+Standard Deviation of Variance values [GLCM]: 0.21823033246212586
+Standard Deviation of Variance values [DTCWT group]: 0.1875928250347488
+--------------------------------------------------
+Standard Deviation of Homogeneity values [GLCM]: 0.22631280081869426
+Standard Deviation of Homogeneity values [DTCWT group]: 0.16866757498250573
+--------------------------------------------------
+Standard Deviation of Sum Average values [GLCM]: 0.21831304343683208
+Standard Deviation of Sum Average values [DTCWT group]: 0.19406565700354422
+--------------------------------------------------
+Standard Deviation of Sum Variance values [GLCM]: 0.20989738346682038
+Standard Deviation of Sum Variance values [DTCWT group]: 0.1966309918241011
+--------------------------------------------------
+Standard Deviation of Sum Entropy values [GLCM]: 0.2285680656715925
+Standard Deviation of Sum Entropy values [DTCWT group]: 0.18213568118593412
+--------------------------------------------------
+Standard Deviation of Entropy values [GLCM]: 0.2369655987438942
+Standard Deviation of Entropy values [DTCWT group]: 0.2065457900538692
+--------------------------------------------------
+Standard Deviation of Difference Variance values [GLCM]: 0.2263128008186946
+Standard Deviation of Difference Variance values [DTCWT group]: 0.1922359173353757
+--------------------------------------------------
+Standard Deviation of Difference Entropy values [GLCM]: 0.2668169389270668
+Standard Deviation of Difference Entropy values [DTCWT group]: 0.18364592687344375
+--------------------------------------------------
+Standard Deviation of Correlation I values [GLCM]: 0.17035331251663324
+Standard Deviation of Correlation I values [DTCWT group]: 0.3304519723755496
+--------------------------------------------------
+Standard Deviation of Correlation II values [GLCM]: 0.17981964337639877
+Standard Deviation of Correlation II values [DTCWT group]: 0.3564713469982817
+--------------------------------------------------
+Standard Deviation of Maximal Correlation values [GLCM]: 0.17535931347504743
+Standard Deviation of Maximal Correlation values [DTCWT group]: 0.253846329306144
+--------------------------------------------------
