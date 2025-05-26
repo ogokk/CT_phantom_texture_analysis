@@ -4,6 +4,8 @@ First date referenced for the follow-up assessment
 Both GLCM and DTCWT methods are evaluated  using 
 the custom 3D-printed phantom and CCR Honeycomb phantom dataset. 
 
+GLCM  : Gray Level Co-Occurence Matrix
+DTCWT : Dual-Tree Complex Wavelet Transform
 """
 
 from scipy import io
