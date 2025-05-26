@@ -108,5 +108,4 @@ ax.set_ylabel('CT Scan Dates')
 plt.tight_layout()
 os.chdir("C:/Users/Bio İzmir/Desktop/violinplots")
 plt.savefig("ct_slices_each_date.png", dpi=600)
-# Show the plot
 plt.show()
